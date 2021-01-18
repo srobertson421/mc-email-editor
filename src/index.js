@@ -1,3 +1,5 @@
+import 'codemirror/lib/codemirror.css';
+import 'codemirror/theme/base16-dark.css';
 import App from "./App.svelte";
 
 let app = new App({
